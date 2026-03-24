@@ -49,21 +49,3 @@ Montrer de manière concrète ma capacité à :
 
 Ce projet est une **simulation pédagogique** destinée à démontrer une démarche QA.  
 Les anomalies listées dans ce dépôt sont des **exemples de constats de test** dans un contexte de mission simulée.
-
-## Comment présenter ce projet à un recruteur
-
-Vous pouvez résumer ce dépôt ainsi :
-
-> « J’ai simulé une mission QA sur le module de connexion d’une application e-commerce : analyse du besoin, stratégie de test, conception de cas de test, remontée d’anomalies et préparation d’une régression. »
-
-## Option bonus
-
-Pour renforcer la démonstration, je peux ajouter :
-- des captures d’écran
-- une courte vidéo Loom
-- une version automatisée sur Playwright ou Cypress
-
-## Exemple de phrase à mettre sur le CV
-
-**Projet personnel QA – Simulation de mission de test (GitHub)**  
-Conception d’une stratégie de test, rédaction de cas de test manuels, documentation d’anomalies, analyse de critères d’acceptation et préparation d’une campagne de régression sur un module de connexion e-commerce.
